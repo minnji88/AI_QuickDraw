@@ -1,4 +1,4 @@
 # AI_QuickDraw
 
-[ ] BOARD
-[ ] API
+- [ ] BOARD
+- [ ] API
