@@ -1,6 +1,7 @@
 # AI_QuickDraw
 
-- [X] BOARD
+- [X] BOARD + BRUSH
 - [ ] ERASE
 - [ ] DATASET
 - [ ] API
+- [ ] 
